@@ -1,0 +1,20 @@
+{
+    "name": "coc7skills-cn",
+    "title": "coc7版技能合集包",
+    "description": "coc7版的带图标技能合集包",
+    "version": "0.1.0",
+    "minimumCoreVersion" : "0.7.0",
+    "author": "卡冈图雅",
+    "scripts": [],
+    "styles": [],
+    "packs": [{
+		"name": "COC7技能合集",
+		"label": "COC7技能合集",
+		"path": "coc7skills.db",
+		"module": "coc7skills-cn",
+		"entity": "Item"
+	}],
+    "url": "https://github.com/kagangtuya-star/coc7skills-cn",
+    "manifest": "https://github.com/kagangtuya-star/coc7skills-cn",
+    "download": "https://github.com/kagangtuya-star/coc7skills-cn"
+}
